@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "idCategoria": "medicinas",
+        "nombre": "Poción",
+        "tipo": "Objeto Curativo",
+        "precio": 2000,
+        "stock": 120,
+        "img": "pocion.png"
+    },
+    {
+        "id": 2,
+        "idCategoria": "pokemon",
+        "nombre": "Magikarp",
+        "tipo": "Pokemon Tipo Agua",
+        "precio": 1500,
+        "stock": 100,
+        "img": "magikarp.png"
+    },
+    {
+        "id": 3,
+        "idCategoria": "pokeballs",
+        "nombre": "PokeBall",
+        "tipo": "Objeto de Captura",
+        "precio": 1000,
+        "stock": 150,
+        "img": "poke-ball.png"
+    },
+    {
+        "id": 4,
+        "idCategoria": "medicinas",
+        "nombre": "Super Poción",
+        "tipo": "Objeto Curativo",
+        "precio": 4000,
+        "stock": 60,
+        "img": "super-pocion.png"
+    },
+    {
+        "id": 5,
+        "idCategoria": "pokemon",
+        "nombre": "Abra",
+        "tipo": "Pokemon Tipo Psíquico",
+        "precio": 2500,
+        "stock": 85,
+        "img": "abra.png"
+    },
+    {
+        "id": 6,
+        "idCategoria": "pokeballs",
+        "nombre": "SuperBall",
+        "tipo": "Objeto de Captura",
+        "precio": 2000,
+        "stock": 75,
+        "img": "super-ball.png"
+    },
+    {
+        "id": 7,
+        "idCategoria": "pokeballs",
+        "nombre": "HonorBall",
+        "tipo": "Objeto de Captura",
+        "precio": 1500,
+        "stock": 100,
+        "img": "honor-ball.png"
+    },
+    {
+        "id": 8,
+        "idCategoria": "pokemon",
+        "nombre": "Eevee",
+        "tipo": "Pokemon Tipo Normal",
+        "precio": 2250,
+        "stock": 95,
+        "img": "eevee.png"
+    },
+    {
+        "id": 9,
+        "idCategoria": "medicinas",
+        "nombre": "Hiper Poción",
+        "tipo": "Objeto Curativo",
+        "precio": 8000,
+        "stock": 30,
+        "img": "hiper-pocion.png"
+    },
+    {
+        "id": 10,
+        "idCategoria": "medicinas",
+        "nombre": "Revivir",
+        "tipo": "Objeto Curativo",
+        "precio": 10000,
+        "stock": 20,
+        "img": "revivir.png"
+    },
+    {
+        "id": 11,
+        "idCategoria": "pokeballs",
+        "nombre": "UltraBall",
+        "tipo": "Objeto de Captura",
+        "precio": 4000,
+        "stock": 40,
+        "img": "ultra-ball.png"
+    },
+    {
+        "id": 12,
+        "idCategoria": "pokemon",
+        "nombre": "Clefairy",
+        "tipo": "Pokemon Tipo Hada",
+        "precio": 7500,
+        "stock": 75,
+        "img": "clefairy.png"
+    },
+    {
+        "id": 13,
+        "idCategoria": "pokemon",
+        "nombre": "Dratini",
+        "tipo": "Pokemon Tipo Dragón",
+        "precio": 12500,
+        "stock": 45,
+        "img": "dratini.png"
+    },
+    {
+        "id": 14,
+        "idCategoria": "pokeballs",
+        "nombre": "Safari Ball",
+        "tipo": "Objeto de Captura",
+        "precio": 1500,
+        "stock": 30,
+        "img": "safari-ball.png"
+    },
+    {
+        "id": 15,
+        "idCategoria": "medicinas",
+        "nombre": "Revivir Máximo",
+        "tipo": "Objeto Curativo",
+        "precio": 20000,
+        "stock": 10,
+        "img": "revivir-maximo.png"
+    },
+    {
+        "id": 16,
+        "idCategoria": "pokemon",
+        "nombre": "Larvitar",
+        "tipo": "Pokemon Tipo Roca",
+        "precio": 15000,
+        "stock": 25,
+        "img": "larvitar.png"
+    },
+    {
+        "id": 17,
+        "idCategoria": "medicinas",
+        "nombre": "Máxima Poción",
+        "tipo": "Objeto Curativo",
+        "precio": 25000,
+        "stock": 5,
+        "img": "max-pocion.png"
+    },
+    {
+        "id": 18,
+        "idCategoria": "pokemon",
+        "nombre": "Mr. Mime",
+        "tipo": "Pokemon Tipo Psíquico",
+        "precio": 9000,
+        "stock": 55,
+        "img": "mr-mime.png"
+    },
+    {
+        "id": 19,
+        "idCategoria": "pokemon",
+        "nombre": "Porygon",
+        "tipo": "Pokemon Tipo Normal",
+        "precio": 75000,
+        "stock": 3,
+        "img": "porygon.png"
+    },
+    {
+        "id": 20,
+        "idCategoria": "pokeballs",
+        "nombre": "Master Ball",
+        "tipo": "Objeto de Captura",
+        "precio": 150000,
+        "stock": 1,
+        "img": "master-ball.png"
+    }
+]
